@@ -186,7 +186,7 @@ function revincrease() {
                                   let currentState = {
                                     // device orientation
                                     beta: 0, // In degree in the range [-180,180]
-                                    gamma: -20, // In degree in the range [-180,180]
+                                    gamma: 0, // In degree in the range [-180,180]
                                     alpha: 0,
                                     absolute: 0,
                                   
